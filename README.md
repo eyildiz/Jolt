@@ -1,4 +1,5 @@
-# Jolt
+<h1> Jolt </h1> <p align="left">![alt text](https://github.com/emre1512/Jolt/blob/master/JoltIcon.png "Jolt Logo") </p> 
+
 Asynchronous networking for JSON, XML and HTML webservices, websites and RSS feeds.
 
 - No dependency on other libraries. <b>Jolt</b> is ready to go.
